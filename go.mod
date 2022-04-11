@@ -1,3 +1,3 @@
-module golang-data-structure-examples
+module project
 
 go 1.18
